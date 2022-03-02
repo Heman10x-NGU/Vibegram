@@ -122,9 +122,11 @@ You can download the metamak web extension from <a href="https://chrome.google.c
 
 5.Run the commands
   <br/>
-  (i).     `truffle migrate --reset`
+   (i)      `npm install`
   <br/>
-  (ii).    `npm run start`
+  (ii).     `truffle migrate --reset`
+  <br/>
+  (iii).    `npm run start`
   <br/>
   Make sure you have your Metamask Running on the Ganache Chain for the local Development server to start
   <br/>
